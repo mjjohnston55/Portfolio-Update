@@ -65,6 +65,10 @@ h3, h2 {
 
 /* main */
 
+#github-btn {
+float: left;
+}
+
 #main-container {
   padding-top: 130px;
 }
@@ -136,4 +140,8 @@ input[type=submit] {
 
 #portfolio-title {
   margin-bottom: 70px;
+}
+
+#spot-on-img {
+  opacity: 75%;
 }
